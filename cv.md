@@ -26,3 +26,6 @@ I am ready to enjoy my work. I am organized and highly motivated to become a str
 * GitHub
 * Corel Draw, Photoshop
 
+## Experience
+Completed an internship at Exadel. (12/10/2021 - 12/12/2021). I have been working in advertising for 15 years. For the last 12 years I have been the director of an advertising agency.
+
