@@ -16,3 +16,13 @@ I am ready to enjoy my work. I am organized and highly motivated to become a str
 [^1]: Graduated in 2020.
 [^2]: Graduated in 2021.
 
+## Skills
+* HTML
+* CSS
+* SCSS
+* JS
+* Angular
+* React Basics
+* GitHub
+* Corel Draw, Photoshop
+
