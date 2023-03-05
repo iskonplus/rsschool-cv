@@ -29,3 +29,14 @@ I am ready to enjoy my work. I am organized and highly motivated to become a str
 ## Experience
 Completed an internship at Exadel. (12/10/2021 - 12/12/2021). I have been working in advertising for 15 years. For the last 12 years I have been the director of an advertising agency.
 
+## Code examples
+
+```
+String.prototype.toJadenCase = function () {
+return this.split(' ').map(el => el.split('')
+    .map((el, ind) => ind === 0 ? el.toUpperCase() : el)
+    .join('')).join(' ');
+};
+
+```
+
