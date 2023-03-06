@@ -29,7 +29,7 @@ I am ready to enjoy my work. I am organized and highly motivated to become a str
 ## Experience
 Completed an internship at Exadel. (12/10/2021 - 12/12/2021). I have been working in advertising for 15 years. For the last 12 years I have been the director of an advertising agency.
 
-## Code examples
+## Code example
 
 ```
 String.prototype.toJadenCase = function () {
@@ -39,4 +39,9 @@ return this.split(' ').map(el => el.split('')
 };
 
 ```
+## Education
+* Internship at Exadel (Angular). 2021.
+* IT school RS school (Department: front-end). 2020.
+* IT school TeachMeSkills (Department: front-end). 2020.
+* Architecture and construction College (Department: architecture). 2007.
 
