@@ -1,12 +1,9 @@
 # Artur Tamashevich
 
 ### Contact Info
-*Phone number:* *+375 29 852-35-53.
-
+* *Phone number:* +375 29 852-35-53.
 * *E-mail:* iskonplus@tut.by
-
-* *GitHub:* iskonplus
-
+* *GitHub:* [iskonplus](https://github.com/iskonplus)
 * *Skype:* @iskonplus
 
 ## Summary
@@ -46,6 +43,6 @@ return this.split(' ').map(el => el.split('')
 
 ## Language
 * English - A2.
-- EPAM English test result: A2
+    - EPAM English test result: A2
 * Polish - A1.
 * Russian - native.
