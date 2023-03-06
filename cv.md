@@ -1,4 +1,5 @@
 # Artur Tamashevich
+![My photo](/src/photo.jpg)
 
 ### Contact Info
 * *Phone number:* +375 29 852-35-53.
