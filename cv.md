@@ -3,11 +3,11 @@
 ### Contact Info
 *Phone number:* *+375 29 852-35-53.
 
-*E-mail:* *iskonplus@tut.by
+* *E-mail:* iskonplus@tut.by
 
-*GitHub:* *iskonplus
+* *GitHub:* iskonplus
 
-*Skype:* *@iskonplus
+* *Skype:* @iskonplus
 
 ## Summary
 I am ready to enjoy my work. I am organized and highly motivated to become a strong front-end developer. Graduated from TeachMeSkills[^1] and RS SCHOOL[^1] IT schools. Completed an internship at Exadel[^2] (Angular).
@@ -46,6 +46,6 @@ return this.split(' ').map(el => el.split('')
 
 ## Language
 * English - A2.
-> EPAM English test result: A2
+- EPAM English test result: A2
 * Polish - A1.
 * Russian - native.
