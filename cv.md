@@ -45,3 +45,8 @@ return this.split(' ').map(el => el.split('')
 * IT school TeachMeSkills (Department: front-end). 2020.
 * Architecture and construction College (Department: architecture). 2007.
 
+## Language
+* English - A2.
+>> EPAM English test result: A2
+* Polish - A1.
+* Russian - native.
