@@ -4,7 +4,7 @@
 * *Phone number:* +375 29 852-35-53.
 * *E-mail:* iskonplus@tut.by
 * *GitHub:* [iskonplus](https://github.com/iskonplus)
-* *Skype:* @iskonplus
+* *Linkedin:* [Artur Tamashevich](https://www.linkedin.com/in/artur-tamashevich-frontend-developer/)
 
 ## Summary
 I am ready to enjoy my work. I am organized and highly motivated to become a strong front-end developer. Graduated from TeachMeSkills[^1] and RS SCHOOL[^1] IT schools. Completed an internship at Exadel[^2] (Angular).
