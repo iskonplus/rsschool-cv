@@ -78,7 +78,7 @@ header {
     border-radius: 50%;
 }
 
-img {
+.avatar img {
     border-radius: 50%;
     width: 150px;
     aspect-ratio: 1 / 1;
@@ -157,14 +157,14 @@ h3 {
     font-size: 12px;
 }
 
-.experience-description p{
+.experience-description p {
     font-size: 14px;
     margin-left: 10px;
     color: var(--dark-color);
     line-height: 1.5;
 }
 
-.education li{
+.education li {
     font-size: 16px;
     margin-bottom: 0px;
     margin-top: 0px;
@@ -177,19 +177,54 @@ h3 {
 
 
 .wrapper_contact {
-  display: flex;
-  align-items: center;
-  margin-bottom: 5px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+    color: var(--dark-color);
 }
 
-.wrapper_contact small{
+.wrapper_contact small {
     margin-right: 15px;
 }
 
+.wrapper_contact a {
+    color: var(--dark-color);
+    text-decoration: none;
+    cursor: pointer;
+}
 
 
 
+footer {
+    background-color: var(--dark-color);
+    width: 100%;
+    position: relative;
+    box-shadow: 0px 0px 5px black;
 
+}
+
+.footer-container {
+    max-width: 900px;
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    color: #ffffff;
+}
+
+.footer-container p {
+    font-size: 16px;
+    font-weight: 600;
+}
+
+figure img {
+    width: 100px;
+    filter: invert(1);
+    object-fit: cover;
+    display: block;
+    margin: auto;
+}
 
 
 
@@ -246,7 +281,7 @@ h3 {
             font-size: 13px;
         }
 
-        img {
+        .avatar img {
             width: 100px;
         }
 
@@ -271,7 +306,7 @@ h3 {
                 margin-top: 70px;
             }
 
-            article li{
+            article li {
                 margin-left: 0px;
             }
         }
