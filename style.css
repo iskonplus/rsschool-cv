@@ -110,14 +110,18 @@ h1 {
 }
 
 article {
+    width: 100%;
     padding: 15px 20px;
     margin-bottom: 10px;
 }
 
-article> :last-child {
-    padding-bottom: 15px;
-    border-bottom: 2px solid var(--dark-color);
 
+article::after {
+    content: "";
+    display: block;
+    height: 2px;
+    background: var(--dark-color);
+    margin-top: 15px;
 }
 
 article h2 {
@@ -224,6 +228,69 @@ figure img {
 
 #main {
     scroll-margin-top: 60px;
+}
+
+.wrapper-skills {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+    justify-content: space-between;
+}
+
+.block-skills,
+.block-code {
+    width: 50%;
+    min-width: 260px;
+}
+
+
+h4 {
+    font-style: italic;
+    color: var(--dark-color);
+}
+
+h4 {
+    font-weight: 300;
+    font-size: 15px;
+}
+
+.code-wrapper {
+    margin-top: 20px;
+}
+
+pre {
+    background: var(--dark-color);
+    padding: 20px;
+    border-radius: 10px;
+    overflow-x: hidden;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25);
+}
+
+code {
+    font-family: "Courier New", monospace;
+    font-size: 14px;
+    line-height: 1.6;
+    color: var(--grey-color);
+}
+
+.keyword {
+    color: #ff79c6;
+}
+
+.variable {
+    color: var(--accent-color);
+}
+
+.property {
+    color: #50fa7b;
+}
+
+.string {
+    color: #f1fa8c;
+}
+
+.number {
+    color: #bd93f9;
 }
 
 
