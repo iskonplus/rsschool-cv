@@ -178,18 +178,20 @@ h3 {
     line-height: 1.5;
 }
 
-.wrapper_contact {
+.wrapper_contact,
+.wrapper_project {
     display: flex;
     align-items: center;
     margin-bottom: 5px;
     color: var(--dark-color);
 }
 
-.wrapper_contact small {
+.wrapper_contact small{
     margin-right: 15px;
 }
 
-.wrapper_contact a {
+.wrapper_contact a ,
+.wrapper_project a {
     color: var(--dark-color);
     text-decoration: none;
     cursor: pointer;
@@ -241,6 +243,18 @@ figure img {
 .block-code {
     width: 50%;
     min-width: 260px;
+}
+
+.block-projects{
+    width: 100%;
+    margin-top: 30px;
+}
+
+.my-projects{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
 }
 
 
