@@ -401,10 +401,10 @@ code {
 
         }
 
-        /* @media (hover: none) {
+        @media (hover: none) {
             nav li:hover {
                 background: inherit;
             }
-        } */
+        }
     }
 }
