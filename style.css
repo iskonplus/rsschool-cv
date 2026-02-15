@@ -258,12 +258,12 @@ figure img {
 }
 
 
-h4 {
+.small-title {
     font-style: italic;
     color: var(--dark-color);
 }
 
-h4 {
+.small-title {
     font-weight: 300;
     font-size: 15px;
 }
